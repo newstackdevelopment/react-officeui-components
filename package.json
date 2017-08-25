@@ -1,0 +1,19 @@
+{
+  "name": "react-officeui-components",
+  "version": "1.0.0",
+  "description": "A module that extends popular libraries with functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newstackdevelopment/react-officeui-components.git"
+  },
+  "author": "Eddy Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newstackdevelopment/react-officeui-components/issues"
+  },
+  "homepage": "https://github.com/newstackdevelopment/react-officeui-components#readme"
+}
